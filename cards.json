@@ -1,0 +1,262 @@
+[
+        {
+        "suit": "hearts",
+        "value": 2,
+        "stringValue": "two"
+        },
+        {
+        "suit": "hearts",
+        "value": 3,
+        "stringValue": "three"
+        },
+        {
+        "suit": "hearts",
+        "value": 4,
+        "stringValue": "Four"
+        },
+        {
+        "suit": "hearts",
+        "value": 5,
+        "stringValue": "Five"
+        },
+        {
+        "suit": "hearts",
+        "value": 6,
+        "stringValue": "Six"
+        },
+        {
+        "suit": "hearts",
+        "value": 7,
+        "stringValue": "Seven"
+        },
+        {
+        "suit": "hearts",
+        "value": 8,
+        "stringValue": "Eight"
+        },
+        {
+        "suit": "hearts",
+        "value": 9,
+        "stringValue": "Nine"
+        },
+        {
+        "suit": "hearts",
+        "value": 10,
+        "stringValue": "Ten"
+        },
+        {
+        "suit": "hearts",
+        "value": 11,
+        "stringValue": "Jack"
+        },
+        {
+        "suit": "hearts",
+        "value": 12,
+        "stringValue": "Queen"
+        },
+        {
+        "suit": "hearts",
+        "value": 13,
+        "stringValue": "King"
+        },
+        {
+        "suit": "hearts",
+        "value": 14,
+        "stringValue": "Ace"
+        },
+        {
+        "suit": "diamonds",
+        "value": 2,
+        "stringValue": "two"
+        },
+        {
+        "suit": "diamonds",
+        "value": 3,
+        "stringValue": "three"
+        },
+        {
+        "suit": "diamonds",
+        "value": 4,
+        "stringValue": "Four"
+        },
+        {
+        "suit": "diamonds",
+        "value": 5,
+        "stringValue": "Five"
+        },
+        {
+        "suit": "diamonds",
+        "value": 6,
+        "stringValue": "Six"
+        },
+        {
+        "suit": "diamonds",
+        "value": 7,
+        "stringValue": "Seven"
+        },
+        {
+        "suit": "diamonds",
+        "value": 8,
+        "stringValue": "Eight"
+        },
+        {
+        "suit": "diamonds",
+        "value": 9,
+        "stringValue": "Nine"
+        },
+        {
+        "suit": "diamonds",
+        "value": 10,
+        "stringValue": "Ten"
+        },
+        {
+        "suit": "diamonds",
+        "value": 11,
+        "stringValue": "Jack"
+        },
+        {
+        "suit": "diamonds",
+        "value": 12,
+        "stringValue": "Queen"
+        },
+        {
+        "suit": "diamonds",
+        "value": 13,
+        "stringValue": "King"
+        },
+        {
+        "suit": "diamonds",
+        "value": 14,
+        "stringValue": "Ace"
+        },
+        {
+        "suit": "clubs",
+        "value": 2,
+        "stringValue": "two"
+        },
+        {
+        "suit": "clubs",
+        "value": 3,
+        "stringValue": "three"
+        },
+        {
+        "suit": "clubs",
+        "value": 4,
+        "stringValue": "Four"
+        },
+        {
+        "suit": "clubs",
+        "value": 5,
+        "stringValue": "Five"
+        },
+        {
+        "suit": "clubs",
+        "value": 6,
+        "stringValue": "Six"
+        },
+        {
+        "suit": "clubs",
+        "value": 7,
+        "stringValue": "Seven"
+        },
+        {
+        "suit": "clubs",
+        "value": 8,
+        "stringValue": "Eight"
+        },
+        {
+        "suit": "clubs",
+        "value": 9,
+        "stringValue": "Nine"
+        },
+        {
+        "suit": "clubs",
+        "value": 10,
+        "stringValue": "Ten"
+        },
+        {
+        "suit": "clubs",
+        "value": 11,
+        "stringValue": "Jack"
+        },
+        {
+        "suit": "clubs",
+        "value": 12,
+        "stringValue": "Queen"
+        },
+        {
+        "suit": "clubs",
+        "value": 13,
+        "stringValue": "King"
+        },
+        {
+        "suit": "clubs",
+        "value": 14,
+        "stringValue": "Ace"
+        },
+        {
+        "suit": "spades",
+        "value": 2,
+        "stringValue": "two"
+        },
+        {
+        "suit": "spades",
+        "value": 3,
+        "stringValue": "three"
+        },
+        {
+        "suit": "spades",
+        "value": 4,
+        "stringValue": "Four"
+        },
+        {
+        "suit": "spades",
+        "value": 5,
+        "stringValue": "Five"
+        },
+        {
+        "suit": "spades",
+        "value": 6,
+        "stringValue": "Six"
+        },
+        {
+        "suit": "spades",
+        "value": 7,
+        "stringValue": "Seven"
+        },
+        {
+        "suit": "spades",
+        "value": 8,
+        "stringValue": "Eight"
+        },
+        {
+        "suit": "spades",
+        "value": 9,
+        "stringValue": "Nine"
+        },
+        {
+        "suit": "spades",
+        "value": 10,
+        "stringValue": "Ten"
+        },
+        {
+        "suit": "spades",
+        "value": 11,
+        "stringValue": "Jack"
+        },
+        {
+        "suit": "spades",
+        "value": 12,
+        "stringValue": "Queen"
+        },
+        {
+        "suit": "spades",
+        "value": 13,
+        "stringValue": "King"
+        },
+        {
+        "suit": "spades",
+        "value": 14,
+        "stringValue": "Ace"
+        }
+    ]
